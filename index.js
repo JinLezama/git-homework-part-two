@@ -1,4 +1,5 @@
 console.log('hi')
 console.log('hello')
-var name 
-name = 'Jin'
+
+console.log('Justin Bieber is the coronavirus of the world')
+
